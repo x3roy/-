@@ -1,4 +1,4 @@
-dont read this  
+
 
 <!---
 k3r0x1/k3r0x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
